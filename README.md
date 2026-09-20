@@ -23,5 +23,8 @@
 - `SHA256.txt` 用于在传输后校验安装包完整性。
 - 本版本不调用额度消费或重置接口，不改动账户、网络或代理设置。
 
-<img width="378" height="426" alt="Snipaste_20260920_190653" src="https://github.com/user-attachments/assets/d6eb3a15-9bdd-4722-a180-9cc0389fdd77" />
+菜单栏效果
 <img width="597" height="31" alt="Snipaste_20260920_190542" src="https://github.com/user-attachments/assets/e89c055f-33aa-4770-b6e4-0ee2f912147a" />
+
+展开效果
+<img width="378" height="426" alt="Snipaste_20260920_190653" src="https://github.com/user-attachments/assets/d6eb3a15-9bdd-4722-a180-9cc0389fdd77" />
