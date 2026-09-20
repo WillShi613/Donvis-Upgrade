@@ -15,10 +15,7 @@
 
 双击 `Donvis-ProLite-Modified-1.7.0.pkg`，按系统提示完成安装。它会安装为 `/Applications/Donvis.app`，因此会替换同路径的 Donvis。
 
-安装前如需保留当前版本，请先复制 `/Applications/Donvis.app`。本机当前版本的回退副本为：
-
-- `/Applications/Donvis.app.backup-prolite-mapping-20260920`
-- `/Applications/Donvis.app.backup-prolite-reset-prepatch-20260920`
+安装前如需保留当前版本，请先复制 `/Applications/Donvis.app`。
 
 ## 验证与边界
 
