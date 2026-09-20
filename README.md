@@ -1,4 +1,4 @@
-# Donvis ProLite 修正版安装包
+# Donvis ProLite 修正版安装包 for MacOS
 
 此安装包基于 Donvis 1.7.0，包含已验证的 ChatGPT/Codex ProLite 额度读取、分类与展示修复。
 
